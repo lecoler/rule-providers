@@ -1,0 +1,7 @@
+payload:
+  - PROCESS-NAME,SunloginClient.exe
+  - PROCESS-NAME,xtlr.exe
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,clngaa.com
+  
