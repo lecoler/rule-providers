@@ -9,4 +9,4 @@ payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilivideo.com
-  
+  - DOMAIN-SUFFIX,qq.com
