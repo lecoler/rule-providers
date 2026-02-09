@@ -4,6 +4,13 @@ classical rule-providers
 
 ```yaml
 rule-providers:
+  Loyalsoldier-cn:
+    type: http
+    behavior: domain
+    url: >-
+      https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt
+    path: ./ruleset/direct.yaml
+    interval: 86400
   general-cn:
     type: http
     format: yaml
@@ -15,4 +22,5 @@ rule-providers:
 
 rules:
   - RULE-SET,general-cn,DIRECT
+  - RULE-SET,Loyalsoldier-cn,DIRECT
 ```
