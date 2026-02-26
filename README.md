@@ -11,6 +11,14 @@ rule-providers:
       https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt
     path: ./ruleset/direct.yaml
     interval: 86400
+  general-proxy:
+    type: http
+    format: yaml
+    url: >-
+      https://raw.githubusercontent.com/lecoler/rule-providers/master/PROXY.yaml
+    behavior: classical
+    path: ./ruleset/general-p.yaml
+    interval: 86400
   general-cn:
     type: http
     format: yaml
@@ -21,6 +29,7 @@ rule-providers:
     interval: 86400
 
 rules:
+  - RULE-SET,general-proxy,PROXY
   - RULE-SET,general-cn,DIRECT
   - RULE-SET,Loyalsoldier-cn,DIRECT
 ```
