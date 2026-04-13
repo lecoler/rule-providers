@@ -1,3 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,hmoe.link
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,googleapis.com
