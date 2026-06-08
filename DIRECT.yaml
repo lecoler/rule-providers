@@ -2,6 +2,7 @@ payload:
   - PROCESS-NAME,SunloginClient.exe
   - PROCESS-NAME,xtlr.exe
   - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,MuMuNxMain.exe
   - PROCESS-NAME,NTEGame.exe
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamserver.net
@@ -14,4 +15,3 @@ payload:
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,netease.com
-  
