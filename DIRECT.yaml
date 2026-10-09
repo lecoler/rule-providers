@@ -1,5 +1,6 @@
 payload:
   - PROCESS-NAME,SunloginClient.exe
+  - PROCESS-NAME,AweSun.exe
   - PROCESS-NAME,xtlr.exe
   - PROCESS-NAME,QQ.exe
   - PROCESS-NAME,MuMuNxMain.exe
