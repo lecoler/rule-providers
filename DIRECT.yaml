@@ -16,3 +16,7 @@ payload:
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,oray.com
+  - DOMAIN-SUFFIX,oray.net
+  - DOMAIN-SUFFIX,sunlogin.net
+  - DOMAIN-SUFFIX,orayimg.com
